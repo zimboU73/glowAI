@@ -1,2 +1,78 @@
 # glowAI
 GlowAI is a Magisk Module for (select) Samsung devices that aims to improve user experience by enabling hidden features, performance tweaks and flagship level optimisations. 
+
+
+# What is glowAI?
+It is a Magisk Module for rooted Samsung devices that adds tons of features that have the potential to work on your entry-level/midrange Samsung device, but are disabled by internal flags and software toggles. glowAI is an attempt to re-enable those and get those high-end features back in our phones.
+
+Do keep in mind that all features may not work (read more below). Also, I am not responsible for any damage that may happen to your device. 
+
+This module was created for my personal use, hence it will not receive further updates. Bugs are also unlikely to be fixed in the future. Constructive development and distribution on part of other enthusiasts are permitted but <ins>credits must be provided to all in `CREDITS` section.</ins>
+
+## Supported Devices
+
+As I mentioned, this module was created for personal use and hence, it has been tested on:
+• Galaxy M15 5G (SM-M156B)
+• Galaxy F15 5G (SM-E156B)
+
+Untested but highly likely to work:
+• Galaxy A15 5G (SM-A156x)
+Users are requested to try out the module on other devices and share their results.
+
+## Installation Instructions
+
+1. Root your Samsung phone with Magisk **(Use Magisk v29.0 only, this module WILL NOT WORK with newer versions of Magisk.)**
+2. Download the module .zip and flash in Magisk. Ensure Zygisk is enabled.
+3. Reboot, and flash the same module once again in Magisk (for best results). Reboot your phone again.
+4. Enjoy glowAI!
+
+## Features
+
+• Full Galaxy AI suite 
+        • Call Assist
+        • Writing Assist 
+        • Interpreter 
+        • Note Assist
+        • Transcript Assist 
+        • Browsing Assist 
+        • Drawing Assist
+        • Photo Ambient Wallpaper 
+        • Health Assist
+        NOTE: Audio Eraser does not work. It shows up as an available feature in Galaxy AI in settings, but doesn't work.
+
+• Object/Shadow/Reflection Eraser
+• Always on Display with AOD Wallpaper support
+• Seamless AOD support
+• High Performance Mode, Power Profile support
+• Adds DailyBoard
+• Enables built-in Screen Recorder
+• Enables Dolby Atmos without headsets
+• Adds Dialogue Boost and UHQ Upscaler
+• Adds Super HDR and brightness boost(display)
+• Adds Bixby, Bixby Vision
+• Adds Power key long press setting (defaulted to Gemini)
+• Now Brief, Now Brief on Now Bar support
+• Adds Link to Windows service
+• Adds Generative Wallpaper
+• Enables flagship live blur, high end animations
+• Generative Wallpaper
+• AI Select
+
+📷 CAMERA FEATURES
+
+• Adds HDR10+, TrueHDR and front video HDR
+• Changes default Slow Motion video framerate (120fps --> 240fps)
+• Adds Shot Suggestions, Document Scan
+• Auto FPS, High Bitrate video support
+• SuperSteady support for videos
+• Adds lens change while shooting video
+• Adds zoom and ultrawide in Night Mode
+• Other camera tweaks to make overall experience better
+
+
+OTHER TWEAKS
+
+• Spoofs device to S25 Ultra (Thanks to @MRX7014) to add high-end features
+• Adds flagship Edge lights for notifications.
+
+
