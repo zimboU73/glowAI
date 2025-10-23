@@ -7,7 +7,7 @@ It is a Magisk Module for rooted Samsung devices that adds tons of features that
 
 Do keep in mind that all features may not work (read more below). Also, I am not responsible for any damage that may happen to your device.
 
-This module was created for my personal use, hence it will not receive further updates. Bugs are also unlikely to be fixed in the future. Constructive development and distribution on part of other enthusiasts are permitted but <ins>credits must be provided to all in `CREDITS` section.</ins>
+This module was created for my personal use, hence it will not receive further updates. Bugs are also unlikely to be fixed in the future. Constructive development and distribution on part of other enthusiasts are permitted but **credits must be provided to all in [CREDITS](https://github.com/zimboU73/glowAI/edit/main/README.md#credits) section.**
 
 ## Supported Devices
 
@@ -22,7 +22,10 @@ Users are requested to try out the module on other devices and share their resul
 
 ## Installation Instructions
 
-1. Root your Samsung phone with Magisk **(Use Magisk v29.0 only, this module WILL NOT WORK with newer versions of Magisk.)**
+<ins>**PLEASE NOTE: Rooting your Samsung phone, unlocking your bootloader will trip Knox irreversibly and void your warranty. Please proceed only if you are okay with this.**</ins>
+
+
+1. Root your bootloader-unlocked Samsung phone with Magisk **(Use Magisk v29.0 only, this module WILL NOT WORK with newer versions of Magisk.)**
 2. Download the module .zip and flash in Magisk. Ensure Zygisk is enabled.
 3. Reboot, and flash the same module once again in Magisk (for best results). Reboot your phone again.
 4. Enjoy glowAI!
@@ -82,7 +85,7 @@ Users are requested to try out the module on other devices and share their resul
 ## Credits
 
 - [@topjohnuwu for Magisk](https://github.com/topjohnwu)
-- [@aliysnm00 for Project AIonix for A15 4G](https://xdaforums.com/t/magisk-module-a155f-a155m-aod-wallpaper-project-aionix.4715731/)
+- [@aliysnm00 for Project AIonix](https://xdaforums.com/t/magisk-module-a155f-a155m-aod-wallpaper-project-aionix.4715731/)
 - [Zenith Tweaks Devs](https://xdaforums.com/t/one-ui-7-zenith-tweaks-ultimate-flagship-experience-on-your-galaxy-a54-5g.4736309/)
 
 
