@@ -87,5 +87,6 @@ Users are requested to try out the module on other devices and share their resul
 - [@topjohnuwu for Magisk](https://github.com/topjohnwu)
 - [@aliysnm00 for Project AIonix](https://xdaforums.com/t/magisk-module-a155f-a155m-aod-wallpaper-project-aionix.4715731/)
 - [Zenith Tweaks Devs](https://xdaforums.com/t/one-ui-7-zenith-tweaks-ultimate-flagship-experience-on-your-galaxy-a54-5g.4736309/)
+- [@salvogiangri for KnoxPatch](https://github.com/salvogiangri/KnoxPatch)
 
 
