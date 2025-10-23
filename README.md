@@ -5,7 +5,6 @@ GlowAI is a Magisk Module for (select) Samsung devices that aims to improve user
 # What is glowAI?
 It is a Magisk Module for rooted Samsung devices that adds tons of features that have the potential to work on your entry-level/midrange Samsung device, but are disabled by internal flags and software toggles. glowAI is an attempt to re-enable those and get those high-end features back in our phones.
 
-Do keep in mind that all features may not work (read more below). Also, I am not responsible for any damage that may happen to your device.
 
 This module was created for my personal use, hence it will not receive further updates. Bugs are also unlikely to be fixed in the future. Constructive development and distribution on part of other enthusiasts are permitted but **credits must be provided to all in [CREDITS](https://github.com/zimboU73/glowAI/edit/main/README.md#credits) section.**
 
