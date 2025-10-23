@@ -4,7 +4,7 @@
 
 - Your bootloader is unlocked and your warranty is null and void. Knox is tripped irreversibly so even restoring original software configuration of the phone will not fix Knox. You will lose access to Knox-dependent services (eg. Samsung Pay, Health, etc.). This module installs KnoxPatch, so some applications may work.
 
-- This device is aimed towards devices using MediaTek Dimensity 6100+. 5G will no longer work when you root your device. You will face a network bug when you reboot to your phone, and you can later set it to use LTE.
+- This module is aimed towards devices using MediaTek Dimensity 6100+. 5G will no longer work when you root your device. You will face a network bug when you reboot to your phone, and you can later set it to use LTE.
 
 - This module will not receive major updates in the future. Bugs may/may not be fixed since it is not in active development.
 
