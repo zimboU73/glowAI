@@ -2,10 +2,13 @@
 
 # What is glowAI?
 GlowAI is a Magisk Module for (select) Samsung devices (One UI 7.0 only) that aims to improve user experience by enabling hidden features, performance tweaks and flagship level optimisations.
-It adds tons of features that have the potential to work on your entry-level/midrange Samsung device, but are disabled by internal flags and software toggles. glowAI is an attempt to re-enable those and get those high-end features back in our phones.
+It adds/re-enables tons of features that have the potential to work on your entry-level/midrange Samsung device, but are disabled by internal flags and software toggles.
 
 
 This module was created for my personal use, hence it will not receive further updates. Bugs are also unlikely to be fixed in the future. Constructive development and distribution on part of other enthusiasts are permitted but **credits must be provided to all in [CREDITS](https://github.com/zimboU73/glowAI/edit/main/README.md#credits) section.**
+
+
+### *Please ensure you also read [IMPORTANT_READ file](https://github.com/zimboU73/glowAI/blob/main/IMPORTANT_READ.md).
 
 ## Supported Devices
 
