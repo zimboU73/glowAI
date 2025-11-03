@@ -62,7 +62,7 @@ Users are requested to try out the module on other devices and share their resul
 - Now Brief, Now Brief on Now Bar support
 - Adds Link to Windows service
 - Adds Generative Wallpaper
-- Enables flagship live blur, high end animations, edge light for notifications
+- Enables flagship live blur, high end animations
 - Generative Wallpaper
 - AI Select
 
@@ -84,7 +84,6 @@ Users are requested to try out the module on other devices and share their resul
 
 ### Other Tweaks
 
-- Spoofs device to S25 Ultra (Thanks to [@MRX7014](https://github.com/mrx7014/)) to add high-end features
 - Adds flagship Edge lights for notifications.
 
 
