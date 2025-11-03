@@ -52,7 +52,7 @@ Users are requested to try out the module on other devices and share their resul
 - Always on Display with AOD Wallpaper support
 - Seamless AOD support
 - High Performance Mode, Power Profile support
-- Adds DailyBoard
+- ~Adds DailyBoard~ Revised version no longer has DailyBoard
 - Enables built-in Screen Recorder
 - Enables Dolby Atmos without headsets
 - Adds Dialogue Boost and UHQ Upscaler
@@ -62,9 +62,12 @@ Users are requested to try out the module on other devices and share their resul
 - Now Brief, Now Brief on Now Bar support
 - Adds Link to Windows service
 - Adds Generative Wallpaper
-- Enables flagship live blur, high end animations
+- Enables flagship live blur, high end animations, edge light for notifications
 - Generative Wallpaper
 - AI Select
+
+
+- New One UI 8 Weather App (Revised Version)        
 
 
 ### 📷 Camera Features
