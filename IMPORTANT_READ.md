@@ -13,15 +13,14 @@
 - You will no longer receive software updates OTA.
 
 
-## BUGS
+## KNOWN BUGS
 
 - Many features in camera do not work; Single Take, UHD videography, Director's View and Dual Take - the flags are enabled so they'll merely act as empty placeholders in the camera app. Most of these features are hardware-dependent so it is unlikely we'll ever get them working due to hardware limitations.
 
 - Audio Eraser and video editing is not working, I'm working to fix it.
 
-- Edge LED notification lights are slightly outside the screen at the corners.
+- ~Edge LED notification lights are slightly outside the screen at the corners.~ UPDATE: Issue fixed with latest release.
 
-- The lock screen and AOD clock may sometimes disappear after a reboot. Just re-flash the module in Magisk and reboot.
+- ~The lock screen and AOD clock may sometimes disappear after a reboot. Just re-flash the module in Magisk and reboot.~ UPDATE: Issue fixed with latest release.
 
-- 
-
+  
